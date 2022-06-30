@@ -16,3 +16,5 @@
 ## Roadmap of future improvements:
 - Add pupils
 - Add a feature to select eye color
+
+MIT License
