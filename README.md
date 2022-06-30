@@ -2,7 +2,7 @@
 # Eye Movement Animation
 
 ## An animation created entirely with CSS and JavaScript
-
+<img src="eyemvmnt.png">
 - Move the cursor around the page
 - The eyes will follow the cursor
 - Also works for laptops with a trackpad
