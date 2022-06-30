@@ -12,3 +12,7 @@
 - Document Object Model
 - for loop
 - DOM controlled by .onmousemove property
+
+## Roadmap of future improvements:
+- Add pupils
+- Add a feature to select eye color
